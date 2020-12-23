@@ -1,1 +1,3 @@
 *.txt
+view.cshtml
+startup.cs
