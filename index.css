@@ -5,3 +5,8 @@ body {
 * {
     margin: 0px;
 }
+
+.tbl {
+    font-size: 20px;
+    border: 2PX solid red;
+}
