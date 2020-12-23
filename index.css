@@ -12,6 +12,7 @@ body {
 }
 
 #p1 {
-    font-size: 26px;
+    font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
+    color: red;
 }
